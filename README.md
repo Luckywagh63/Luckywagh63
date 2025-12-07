@@ -1,12 +1,75 @@
-- 👋 Hi, I’m @Luckywagh63
-- 👀 I’m interested in Software Devlopment
-- 🌱 I’m currently learning b.tech at Lokmanaya Tilak College og Engineering
-- 💞️ I’m looking to collaborate on full stack
-- 📫 How to reach me waghlucky63@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: that it is fun
+# Hi there, I'm Lucky Wagh! 👋
 
-<!---
-Luckywagh63/Luckywagh63 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineering+Student;Open+Source+Enthusiast;Always+Learning+New+Things!)
+  
+</div>
+
+## 🚀 About Me
+
+I'm a passionate software engineering student at **Lokmanya Tilak College of Engineering**, diving deep into the world of full-stack development. I love building things that make a difference and constantly exploring new technologies to expand my skill set.
+
+- 🔭 Currently working on mastering the **full-stack development** ecosystem
+- 🌱 Pursuing **B.Tech** in Computer/Software Engineering
+- 💡 Eager to collaborate on **full-stack projects** and **open-source contributions**
+- 🎯 Goal: Build scalable, user-friendly applications that solve real-world problems
+- ⚡ Fun fact: I believe coding is not just work—it's genuinely fun!
+
+## 💻 Tech Stack
+
+```javascript
+const lucky = {
+  code: ["JavaScript", "Python", "Java", "C++"],
+  frontend: ["React", "HTML5", "CSS3", "Bootstrap", "Tailwind CSS"],
+  backend: ["Node.js", "Express", "Django"],
+  database: ["MongoDB", "MySQL", "PostgreSQL"],
+  tools: ["Git", "VS Code", "Postman", "Docker"],
+  currentlyLearning: ["TypeScript", "Next.js", "AWS", "Microservices"]
+};
+```
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![Lucky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luckywagh63&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luckywagh63&layout=compact&theme=radical&hide_border=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Luckywagh63&theme=radical&hide_border=true)
+
+</div>
+
+## 🤝 Let's Connect!
+
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
+
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email-waghlucky63%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waghlucky63@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-Luckywagh63-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luckywagh63)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+  
+</div>
+
+## 🎯 What I'm Looking For
+
+- 🤝 Collaborating on **full-stack web applications**
+- 🌟 Contributing to **open-source projects**
+- 💼 **Internship opportunities** in software development
+- 🧑‍🤝‍🧑 Connecting with fellow developers and tech enthusiasts
+
+---
+
+<div align="center">
+  
+  ### 💭 Random Dev Quote
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+  ### 👁️ Profile Views
+  ![Visitor Count](https://profile-counter.glitch.me/Luckywagh63/count.svg)
+  
+  **Thanks for stopping by! Let's build something amazing together! 🚀**
+
+</div>
