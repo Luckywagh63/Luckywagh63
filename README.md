@@ -1,11 +1,5 @@
 # Hi there, I'm Lucky Wagh! 👋
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineering+Student;Open+Source+Enthusiast;Always+Learning+New+Things!)
-  
-</div>
-
 ## 🚀 About Me
 
 I'm a passionate software engineering student at **Lokmanya Tilak College of Engineering**, diving deep into the world of full-stack development. I love building things that make a difference and constantly exploring new technologies to expand my skill set.
@@ -18,29 +12,34 @@ I'm a passionate software engineering student at **Lokmanya Tilak College of Eng
 
 ## 💻 Tech Stack
 
-**Languages:** JavaScript, Python, Java, C++
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**Frontend:** React, HTML5, CSS3, Bootstrap, Tailwind CSS
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend:** Node.js, Express, Django
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-**Database:** MongoDB, MySQL, PostgreSQL
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Tools & Technologies:** Git, VS Code, Postman, Docker
-
-**Currently Learning:** TypeScript, Next.js, AWS, Microservices
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Lucky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luckywagh63&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luckywagh63&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Luckywagh63&theme=radical&hide_border=true)
-
-</div>
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🤝 Let's Connect!
 
@@ -57,12 +56,14 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 - 💼 **Internship opportunities** in software development
 - 🧑‍🤝‍🧑 Connecting with fellow developers and tech enthusiasts
 
+## 📂 Featured Projects
+
+Coming soon! Check out my repositories below to see what I'm working on.
+
 ---
 
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/Luckywagh63/count.svg)
-  
-  **Thanks for stopping by! Let's build something amazing together! 🚀**
+**Thanks for stopping by! Let's build something amazing together! 🚀**
 
 </div>
