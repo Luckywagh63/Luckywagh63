@@ -18,16 +18,17 @@ I'm a passionate software engineering student at **Lokmanya Tilak College of Eng
 
 ## 💻 Tech Stack
 
-```javascript
-const lucky = {
-  code: ["JavaScript", "Python", "Java", "C++"],
-  frontend: ["React", "HTML5", "CSS3", "Bootstrap", "Tailwind CSS"],
-  backend: ["Node.js", "Express", "Django"],
-  database: ["MongoDB", "MySQL", "PostgreSQL"],
-  tools: ["Git", "VS Code", "Postman", "Docker"],
-  currentlyLearning: ["TypeScript", "Next.js", "AWS", "Microservices"]
-};
-```
+**Languages:** JavaScript, Python, Java, C++
+
+**Frontend:** React, HTML5, CSS3, Bootstrap, Tailwind CSS
+
+**Backend:** Node.js, Express, Django
+
+**Database:** MongoDB, MySQL, PostgreSQL
+
+**Tools & Technologies:** Git, VS Code, Postman, Docker
+
+**Currently Learning:** TypeScript, Next.js, AWS, Microservices
 
 ## 📊 GitHub Stats
 
@@ -45,13 +46,9 @@ const lucky = {
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
 
-<div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email-waghlucky63%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waghlucky63@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-Luckywagh63-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luckywagh63)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-  
-</div>
+📧 **Email:** waghlucky63@gmail.com
+
+🐙 **GitHub:** [@Luckywagh63](https://github.com/Luckywagh63)
 
 ## 🎯 What I'm Looking For
 
@@ -64,10 +61,6 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 
 <div align="center">
   
-  ### 💭 Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-  ### 👁️ Profile Views
   ![Visitor Count](https://profile-counter.glitch.me/Luckywagh63/count.svg)
   
   **Thanks for stopping by! Let's build something amazing together! 🚀**
