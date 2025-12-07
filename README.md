@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waghlucky63@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luckywagh63)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucky-wagh-97b260303/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkOrc0TrtQbSzyT%2BGKl3nxA%3D%3D)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Luckywagh63&color=blueviolet&style=for-the-badge)
 
